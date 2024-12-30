@@ -1,0 +1,1 @@
+export const BASE_URL="https://notesapp-backend-xh0o.onrender.com";
